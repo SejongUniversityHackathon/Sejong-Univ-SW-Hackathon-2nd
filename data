@@ -1,0 +1,77 @@
+-- 과목id / 과목명 / 학점 / 생성시간 / 수정시간
+-- 디노 강의 리스트
+insert into Lecture values(1,"2D DESIGN",3,now(),now(),1);
+insert into Lecture values(2,"3D DESIGN",3,now(),now(),1);
+insert into Lecture values(3,"발상과 표현",3,now(),now(),1);
+insert into Lecture values(4,"색채의 이해",2,now(),now(),1);
+insert into Lecture values(5,"비주얼커뮤니케이션 디자인1",3,now(),now(),2);
+insert into Lecture values(6,"창의융합노마드",3,now(),now(),2);
+insert into Lecture values(7,"디자인사",2,now(),now(),2);
+insert into Lecture values(8,"컴퓨터그래픽스",2,now(),now(),2);
+insert into Lecture values(9,"프로덕트디자인1",3,now(),now(),2);
+insert into Lecture values(10,"비주얼커뮤니케이션 디자인2",3,now(),now(),3);
+insert into Lecture values(11,"타이포그래피",3,now(),now(),3);
+insert into Lecture values(12,"ES모션 그래픽스",3,now(),now(),3);
+insert into Lecture values(13,"웹프로그래밍&퍼블리싱",3,now(),now(),3);
+insert into Lecture values(14,"디자인 인모션",3,now(),now(),3);
+insert into Lecture values(15,"프로덕트디자인2",3,now(),now(),3);
+insert into Lecture values(16,"기초렌더링",3,now(),now(),3);
+insert into Lecture values(17,"기초 3D그래픽스",3,now(),now(),4);
+insert into Lecture values(18,"타입&이미지 인터렉티브 디자인",3,now(),now(),4);
+insert into Lecture values(19,"비주얼 프로그래밍",3,now(),now(),4);
+insert into Lecture values(20,"디자인 인모션2",3,now(),now(),4);
+insert into Lecture values(21,"디자인 재료 및 성형기법",3,now(),now(),4);
+insert into Lecture values(22,"프로덕트조형 스튜디오",3,now(),now(),4);
+insert into Lecture values(23,"3D 그래픽 어플리케이션",3,now(),now(),5);
+insert into Lecture values(24,"인포그래픽",3,now(),now(),5);
+insert into Lecture values(25,"UX 디자인1",3,now(),now(),5);
+insert into Lecture values(26,"기초패키지 디자인",3,now(),now(),5);
+insert into Lecture values(27,"프로덕트&모빌리티 디자인1",3,now(),now(),5);
+insert into Lecture values(28,"스마트 프로덕트 디자인1",3,now(),now(),5);
+insert into Lecture values(29,"그래픽 디자인2",3,now(),now(),6);
+insert into Lecture values(30,"디지털 미디어 디자인",3,now(),now(),6);
+insert into Lecture values(31,"디자인 비지니스&매니지먼트",3,now(),now(),6);
+insert into Lecture values(32,"UX 디자인2",3,now(),now(),6);
+insert into Lecture values(33,"디자인방법론",2,now(),now(),6);
+insert into Lecture values(34,"프로덕트&모빌리티 디자인2",3,now(),now(),6);
+insert into Lecture values(35,"스마트프로덕트 디자인2",3,now(),now(),6);
+insert into Lecture values(36,"아이덴티티 디자인1",3,now(),now(),7);
+insert into Lecture values(37,"디지털미디어 프로젝트1",3,now(),now(),7);
+insert into Lecture values(38,"패키지 디자인1",3,now(),now(),7);
+insert into Lecture values(39,"디자인 창업실습",3,now(),now(),7);
+insert into Lecture values(40,"융합프로덕트 종합설계A",3,now(),now(),7);
+insert into Lecture values(41,"프로덕트 시스템 디자인1",3,now(),now(),7);
+insert into Lecture values(42,"프로덕트&모빌리티 디자인 3",3,now(),now(),7);
+insert into Lecture values(43,"아이덴티티 디자인2",3,now(),now(),8);
+insert into Lecture values(44,"디지털미디어 프로젝트2",3,now(),now(),8);
+insert into Lecture values(45,"패키지 디자인",3,now(),now(),8);
+insert into Lecture values(46,"졸업작품연구 및 발표`",3,now(),now(),8);
+insert into Lecture values(47,"프리젠테이션 테크닉",3,now(),now(),8);
+insert into Lecture values(48,"융합프로덕트 종합설계B",3,now(),now(),8);
+insert into Lecture values(49,"프로덕트 시스템 디자인2",3,now(),now(),8);
+insert into Lecture values(50,"프로덕트&모빌리티 디자인4",3,now(),now(),8);
+insert into Lecture values(51,"그래픽 디자인1",3,now(),now(),5);
+
+-- id / 트랙명 / 강의리스트 / 생성시간 / 수정시간 
+-- 디노 트랙
+insert into Track values(1,"Visual Communication Track", "1,2,3,4", "5,6,7,8", "10,11,12,13,14", "17,18,19,20", "51,23,24,25,26", "29,30,31,32", "36,37,38,39,40", "43,44,45,46,47,48",now(),now());
+insert into Track values(2,"Product Design Track", "1,2,3,4","6,7,8,9","11,12,13,14,15,16","18,19,20,21,22","25,26,27,28","31,32,33,34,35","39,40,41,42","46,47,48,49,50", now(),now());
+
+
+
+
+insert into Lecture values(,"",3,now(),now(),);
+insert into Lecture values(,"",3,now(),now(),);
+insert into Lecture values(,"",3,now(),now(),);
+insert into Lecture values(,"",3,now(),now(),);
+insert into Lecture values(,"",3,now(),now(),);
+insert into Lecture values(,"",3,now(),now(),);
+
+
+insert into Lecture values(,"",3,now(),now(),);
+insert into Lecture values(,"",3,now(),now(),);
+insert into Lecture values(,"",3,now(),now(),);
+insert into Lecture values(,"",3,now(),now(),);
+insert into Lecture values(,"",3,now(),now(),);
+insert into Lecture values(,"",3,now(),now(),);
+
